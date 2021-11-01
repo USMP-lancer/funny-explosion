@@ -1,7 +1,7 @@
-name: "funny-explosion"
-displayname: "Funny Explosion"
+name: funny-explosion
+displayName: Funny Explosion
 author: "USMP-lancer"
 description: "replaces all explosion sfx with vine thud"
-hidden: "true"
-version "0.1"
-minGameVersion: "126"
+hidden: true
+version 0.1
+minGameVersion: 126
